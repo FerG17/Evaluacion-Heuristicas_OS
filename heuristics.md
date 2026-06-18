@@ -10,7 +10,7 @@
 | **SECCIÓN** | 17952 |
 | **PROFESORES** | Todos |
 | **AUDITOR** | VitaSync |
-| **CLIENTE(S)** | Inovatech — AutoService |
+| **CLIENTE(S)** | Innovatech — AutoService |
  
 ---
  
